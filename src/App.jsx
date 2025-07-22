@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import "./i18n";
+import "./translations/i18n";
 import Header from "./components/header/Header";
 import Home from "./components/home/Home";
 import About from "./components/about/About";
