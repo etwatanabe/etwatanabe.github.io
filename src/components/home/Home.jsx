@@ -12,7 +12,7 @@ const Home = () => {
       } catch (error) {
         // Fallback to a default image if the fetch fails
         console.error("Failed to fetch GitHub profile", error);
-        document.documentElement.style.setProperty('--profile-image-url', `url('default_profile.jpeg')`);
+        document.documentElement.style.setProperty('--profile-image-url', `url('default_profile.jpg')`);
       }
     };
     
