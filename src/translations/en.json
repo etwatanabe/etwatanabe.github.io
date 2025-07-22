@@ -36,6 +36,7 @@
     "backend": "Backend",
     "frontend": "Frontend",
     "databases": "Databases",
+    "messaging": "Messaging",
     "toolsdevops": "Tools & DevOps"
   },
   "experience": {

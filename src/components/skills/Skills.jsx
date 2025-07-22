@@ -42,7 +42,15 @@ const Skills = () => {
         { name: "PostgreSQL", icon: "devicon-postgresql-plain" },
         { name: "MongoDB", icon: "devicon-mongodb-plain" },
         { name: "MySQL", icon: "devicon-mysql-plain" },
-        { name: "SQL Server", icon: "devicon-microsoftsqlserver-plain" }
+        { name: "SQL Server", icon: "devicon-microsoftsqlserver-plain" },
+        { name: "Redis", icon: "devicon-redis-plain" },
+      ]
+    },
+    {
+      title: t("skills.messaging"),
+      skills: [
+        { name: "RabbitMQ", icon: "devicon-rabbitmq-plain" },
+        { name: "Apache Kafka", icon: "devicon-apachekafka-plain" },
       ]
     },
     {
