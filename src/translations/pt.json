@@ -7,8 +7,8 @@
     "contact": "Contato"
   },
   "home": {
-    "title": "Engenheiro de Software Full Stack",
-    "description": "Sou um solucionador de problemas que gosta de trabalhar com tecnologias para criar experiências perfeitas para os usuários.",
+    "title": "Engenheiro de Software Backend",
+    "description": "Sou um solucionador de problemas especializado em construir soluções server-side e APIs para criar experiências perfeitas para os usuários.",
     "contact": "Entre em Contato"
   },
   "about": {
@@ -16,7 +16,7 @@
     "subtitle": "Uma breve apresentação",
     "card1": {
       "title": "Aprendiz Contínuo",
-      "description": "Evoluir, adaptar, melhorar"
+      "description": "Evoluir e adaptar"
     },
     "card2": {
       "title": "Solucionador de Problemas",
@@ -26,7 +26,7 @@
       "title": "Trabalho em Equipe",
       "description": "Construindo melhor juntos"
     },
-    "description": "Desenvolvedor Fullstack focado na criação de sistemas escaláveis, de alto desempenho e com experiências de usuário otimizadas. Próximo de concluir a graduação em Ciência da Computação, construí uma base técnica sólida junto com experiência prática em tecnologias como Node.js, C#, Python e frameworks de frontend, entregando soluções completas para diferentes negócios.",
+    "description": "Desenvolvedor especializado em backend, focado na criação de sistemas escaláveis, de alto desempenho e arquiteturas robustas de servidor. Graduado em Ciência da Computação, construí uma base técnica sólida com ampla experiência em tecnologias backend como Node.js, C#, Python, entregando soluções confiáveis e eficientes para diferentes negócios.",
     "download": "Baixar Currículo"
   },
   "skills": {

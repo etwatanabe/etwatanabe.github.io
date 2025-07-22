@@ -7,8 +7,8 @@
     "contact": "Contact"
   },
   "home": {
-    "title": "Fullstack Software Engineer",
-    "description": "I'm a problem solver who enjoys working with technologies to create seamless experiences for users.",
+    "title": "Backend Software Engineer",
+    "description": "I'm a problem solver who specializes in building server-side solutions and APIs to create seamless experiences for users.",
     "contact": "Get in Touch"
   },
   "about": {
@@ -16,7 +16,7 @@
     "subtitle": "A brief introduction",
     "card1": {
       "title": "Continuous Learner",
-      "description": "Evolve, adapt, improve"
+      "description": "Evolve and adapt"
     },
     "card2": {
       "title": "Problem Solver",
@@ -26,7 +26,7 @@
       "title": "Team Player",
       "description": "Building better together"
     },
-    "description": "Fullstack developer focused on creating scalable, high-performance systems with optimized user experiences. Nearing the completion of my Computer Science degree, I’ve built a strong technical foundation alongside practical experience with technologies like Node.js, C#, Python, and frontend frameworks, delivering complete solutions for various businesses.",
+    "description": "Backend-focused developer specializing in creating scalable, high-performance systems and robust server architectures. Computer Science graduate, I've built a strong technical foundation with extensive experience in backend technologies like Node.js, C#, Python, delivering reliable and efficient solutions for various businesses.",
     "download": "Download Resume"
   },
   "skills": {
