@@ -24,16 +24,16 @@ const Skills = () => {
         { name: "Node.js", icon: "devicon-nodejs-plain" },
         { name: "Express", icon: "devicon-express-original" },
         { name: "Nest.js", icon: "devicon-nestjs-plain" },
-        { name: "ASP.NET", icon: "devicon-dotnetcore-plain" }
+        { name: ".NET Core", icon: "devicon-dotnetcore-plain" }
       ]
     },
     {
       title: t("skills.frontend"),
       skills: [
         { name: "React", icon: "devicon-react-original" },
-        { name: "Angular", icon: "devicon-angularjs-plain" },
+        // { name: "Angular", icon: "devicon-angularjs-plain" },
         { name: "Next.js", icon: "devicon-nextjs-original-wordmark" },
-        { name: "Bootstrap", icon: "devicon-bootstrap-plain" },
+        // { name: "Bootstrap", icon: "devicon-bootstrap-plain" },
       ]
     },
     {
