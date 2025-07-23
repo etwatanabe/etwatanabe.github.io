@@ -2,8 +2,8 @@ import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 
-import enTranslation from './translations/en.json';
-import ptTranslation from './translations/pt.json';
+import enTranslation from './en.json';
+import ptTranslation from './pt.json';
 
 const savedLanguage = localStorage.getItem('i18nextLng');
 
