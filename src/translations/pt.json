@@ -3,6 +3,7 @@
     "home": "Início",
     "about": "Sobre",
     "skills": "Skills",
+    "portfolio": "Portfólio",
     "experience": "Experiência",
     "contact": "Contato"
   },
@@ -38,6 +39,13 @@
     "databases": "Bancos de Dados",
     "messaging": "Mensageria",
     "toolsdevops": "Ferramentas & DevOps"
+  },
+  "portfolio": {
+    "title": "Portfólio",
+    "subtitle": "Meus projetos mais recentes",
+    "viewCode": "Ver código",
+    "liveDemo": "Ver demo",
+    "lastUpdate": "Última atualização"
   },
   "experience": {
     "title": "Experiência",

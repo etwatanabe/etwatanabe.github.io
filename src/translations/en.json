@@ -3,6 +3,7 @@
     "home": "Home",
     "about": "About",
     "skills": "Skills",
+    "portfolio": "Portfolio",
     "experience": "Experience",
     "contact": "Contact"
   },
@@ -38,6 +39,13 @@
     "databases": "Databases",
     "messaging": "Messaging",
     "toolsdevops": "Tools & DevOps"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "My most recent work",
+    "viewcode": "View code",
+    "viewdemo": "View demo",
+    "lastUpdate": "Last updated"
   },
   "experience": {
     "title": "Experience",
