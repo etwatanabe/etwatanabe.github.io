@@ -43,9 +43,9 @@
   "portfolio": {
     "title": "Portfólio",
     "subtitle": "Meus projetos mais recentes",
-    "viewcode": "Ver código",
-    "livedemo": "Ver demo",
-    "lastupdate": "Última atualização"
+    "viewCode": "Ver código",
+    "liveDemo": "Ver demo",
+    "lastUpdate": "Última atualização"
   },
   "experience": {
     "title": "Experiência",

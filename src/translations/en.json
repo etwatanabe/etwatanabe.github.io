@@ -43,9 +43,9 @@
   "portfolio": {
     "title": "Portfolio",
     "subtitle": "My most recent work",
-    "viewcode": "View code",
-    "viewdemo": "View demo",
-    "lastupdate": "Last updated"
+    "viewCode": "View code",
+    "viewDemo": "View demo",
+    "lastUpdate": "Last updated"
   },
   "experience": {
     "title": "Experience",
