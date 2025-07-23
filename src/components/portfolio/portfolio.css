@@ -50,7 +50,7 @@
   z-index: 1;
 }
 
-/* Card ativo (centro) */
+/* Active card (center) */
 .portfolio__slide.activeSlide {
   opacity: 1;
   transform: translateY(-50%) translateX(-50%) scale(1.1);
@@ -58,7 +58,7 @@
   pointer-events: auto;
 }
 
-/* Card anterior (esquerda visível) */
+/* Previous card (left visible) */
 .portfolio__slide.prevSlide {
   opacity: 0.7;
   transform: translateY(-50%) translateX(calc(-50% - 300px)) scale(0.8);
@@ -66,7 +66,7 @@
   pointer-events: none;
 }
 
-/* Card seguinte (direita visível) */
+/* Next card (right visible) */
 .portfolio__slide.nextSlide {
   opacity: 0.7;
   transform: translateY(-50%) translateX(calc(-50% + 300px)) scale(0.8);
@@ -74,7 +74,7 @@
   pointer-events: none;
 }
 
-/* Cards muito à esquerda (fora da tela) */
+/* Too far left card */
 .portfolio__slide.farLeftSlide {
   opacity: 0;
   transform: translateY(-50%) translateX(calc(-50% - 600px)) scale(0.6);
@@ -82,7 +82,7 @@
   pointer-events: none;
 }
 
-/* Cards muito à direita (fora da tela) */
+/* Too far right card */
 .portfolio__slide.farRightSlide {
   opacity: 0;
   transform: translateY(-50%) translateX(calc(-50% + 600px)) scale(0.6);
@@ -90,7 +90,7 @@
   pointer-events: none;
 }
 
-/* Cards ocultos */
+/* Hidden cards */
 .portfolio__slide.hiddenSlide {
   opacity: 0;
   transform: translateY(-50%) translateX(-50%) scale(0.6);
@@ -199,7 +199,7 @@
   text-align: right;
 }
 
-/* Navegação do carrossel */
+/* Carousel navigation */
 .portfolio__nav {
   position: absolute;
   top: 50%;
@@ -241,7 +241,7 @@
   color: var(--container-color);
 }
 
-/* Indicadores */
+/* Indicators */
 .portfolio__dots {
   position: relative;
   display: flex;
@@ -271,7 +271,7 @@
   transform: scale(1.1);
 }
 
-/* Responsividade */
+/* Responsive */
 @media screen and (max-width: 992px) {
   .portfolio__carousel {
     height: 400px;

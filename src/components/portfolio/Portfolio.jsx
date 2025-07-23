@@ -17,16 +17,15 @@ const Portfolio = () => {
         );
         const repos = await response.json();
 
-        // Filtrar repos com critérios mais flexíveis
         const filteredRepos = repos.filter(
           (repo) =>
             !repo.fork &&
-            repo.name !== "etwatanabe" && // Excluir repo do perfil se existir
-            repo.name !== "portfolio" && // Excluir o repo do portfólio
-            repo.name !== "etwatanabe.github.io" // Excluir o repo do portfólio
+            repo.name !== "etwatanabe" &&
+            repo.name !== "portfolio" &&
+            repo.name !== "etwatanabe.github.io"
           );
 
-        setProjects(filteredRepos.slice(0, 8)); // Mostrar 8 projetos
+        setProjects(filteredRepos.slice(0, 8));
       } catch (error) {
         console.error("Erro ao buscar projetos:", error);
       } finally {
@@ -53,7 +52,6 @@ const Portfolio = () => {
     setCurrentIndex(index);
   };
 
-  // Função para determinar a posição de cada slide
   const getSlidePosition = (index) => {
     if (index === currentIndex) {
       return "activeSlide";
@@ -93,7 +91,7 @@ const Portfolio = () => {
       <div className="portfolio__container container">
         {projects.length === 0 ? (
           <div className="portfolio__empty">
-            <p>Nenhum projeto encontrado.</p>
+            <p>No projects found.</p>
           </div>
         ) : (
           <>
@@ -136,7 +134,6 @@ const Portfolio = () => {
               )}
             </div>
 
-            {/* Bolinhas agora ficam fora do carrossel */}
             {projects.length > 1 && (
               <div className="portfolio__dots">
                 {projects.map((_, index) => (
