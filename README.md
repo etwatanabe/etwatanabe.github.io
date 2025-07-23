@@ -1,10 +1,10 @@
 # 📁 Meu Portfólio Pessoal
 
-🚀 Projeto de portfólio pessoal desenvolvido para apresentar meus trabalhos, habilidades e experiência como desenvolvedor Fullstack.
+🚀 Projeto de portfólio pessoal desenvolvido para apresentar meus trabalhos, habilidades e experiência como desenvolvedor Backend.
 
 ## 📸 Demonstração
 
-➡️ [Acesse aqui o site](https://etwatanabe.github.io/portfolio)
+➡️ [Acesse aqui o site](https://etwatanabe.github.io)
 
 ## 📖 Descrição
 
@@ -31,14 +31,12 @@ Este projeto foi criado com o objetivo de centralizar minhas informações profi
 - 🌗 **Tema claro e escuro** com alternância dinâmica
 - 🌐 **Suporte multilíngue** (Português 🇧🇷 e Inglês 🇺🇸)
 
-
-
 ## 📦 Como Rodar Localmente
 
 Clone o projeto:
 
 ```bash
-git clone https://github.com/etwatanabe/portfolio.git
+git clone https://github.com/etwatanabe/etwatanabe.github.io.git
 ```
 
 Instale as dependências:
@@ -69,7 +67,7 @@ npm run dev
 
 O projeto está publicado via **GitHub Pages** e pode ser acessado em:
 
-[https://etwatanabe.github.io/portfolio](https://etwatanabe.github.io/portfolio)
+[https://etwatanabe.github.io](https://etwatanabe.github.io)
 
 ## 👤 Autor
 
